@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+
+#body {
+	
+	background-image: url("../resources/bgimage.jpg");
+	height: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbar
+{
+	background-color: lightblue;
+	margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 35px;
+    margin: auto;
+    
+}
+
+.navlink {
+	padding: 16px;
+	background-color: green;
+	margin: 8px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#main-body {
+	
+	/*background-image: linear-gradient(blue,lightblue);*/
+}

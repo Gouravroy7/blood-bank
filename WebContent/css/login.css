@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+
+#content{
+	background-image: url("../resources/photo-1500485035595-cbe6f645feb1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+#main-heading {
+	color: green;
+	padding: 10px;
+	margin : 50px 400px;
+	background-color: darkblue;
+	font-size: 20px;
+	text-align: center;
+}
+
+#main-form {
+	color: red;
+	font-size: 20px;
+	padding: 50px 70px;
+	margin : 50px 400px;
+	margin-top : 10px;
+	height:250px;
+	background-image: linear-gradient(blue,lightblue);
+	
+}
+
+.form-content {
+	padding: 10px 70px;
+	padding-left: 5px;
+	margin : 5px 50px;
+	font-size: 15px;
+}
+
+.formbtn {
+	background-color: orange;
+	padding: 10px 70px;
+	padding-left: 25px;
+	padding-right : 25px;
+	margin : 5px 140px;
+	
+	font-size: 15px;
+}
